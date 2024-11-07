@@ -28,6 +28,16 @@ a {
     margin-right: 20%;
 }
 
+.img_text_box {
+    padding-top: 3%
+}
+
+.process_img {
+    width: 30%;
+    border-radius: 10px;
+    padding:5px;
+}
+
 .menu {
     background-color: aliceblue;
     position: fixed;
@@ -56,14 +66,14 @@ a {
     color: black;
     display: block;
     padding: 10px 20px;
-    font-size: 30px;
+    font-size: 2.2vw;
     white-space: nowrap;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .menu > ul > li > .dragless {
-    font-size: 35px;
+    font-size: 3vw;
     color: #888; /* 구분자 색상 */
 }
 
