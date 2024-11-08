@@ -29,7 +29,8 @@ a {
 }
 
 .img_text_box {
-    padding-top: 3%
+    padding-top: 3%;
+    text-align: center;
 }
 
 .process_img {
